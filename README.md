@@ -1,5 +1,4 @@
-
-#Localstorage
+# Localstorage
 
 LocalStorage é também chamado de Web Storage ou Armazenamento local. Ele é um objeto JavaScript que usamos para armazenar dados no navegador. Ele fornece métodos para armazenar e recuperar a informação. O uso da API é bem simples, é baseada em chave-valor.
 
